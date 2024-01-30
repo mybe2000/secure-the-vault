@@ -1,0 +1,4 @@
+create var for number 1 with arithmetic operator "+"
+create var for number 2 with arithmetic operator "-"
+create var for number 3 with arithmetic operator "*"
+alert with combination of the three numbers
