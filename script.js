@@ -9,10 +9,12 @@ const num1 = 20 - 10;
 const num2 = 25 + 15;
 const num3 = 13 * 3;
 
-// alert with message for user
+// alert with message for user and combination of the three numbers
 alert(
-  "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
+  "You have received this message because you have been chosen to open an important vault. Here is the secret combination: " +
+    num1 +
+    " " +
+    num2 +
+    " " +
+    num3
 );
-
-// alert with combination of the three numbers
-alert(num1 + " " + num2 + " " + num3);
